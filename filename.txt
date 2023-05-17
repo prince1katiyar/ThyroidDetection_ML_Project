@@ -3,3 +3,5 @@ c++
 
 python
 java 
+
+scala
